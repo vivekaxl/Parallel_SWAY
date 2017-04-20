@@ -201,6 +201,7 @@ def initialPopulation(problem, n, path=""):
     for x,y,z in zip(fitnessLows, fitnessMedians, fitnessUps): s += str(x) + "," + str(y) + "," + str(z) + "\n"
     fo.write(s)
     fo.close()
+    return None
     
 def dataGen(problem, n):
     "Generate Data to be used in Initial Population of jmoo_jmeoa"

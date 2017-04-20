@@ -32,15 +32,47 @@ from jmoo_problems import *
 
 from Problems.NRP.nrp import *
 # from Problems.MONRP.monrp import *
-from Problems.POM3.POM3B import POM3B
-from Problems.POM3.POM3A import POM3A, POM3AS
-from Problems.POM3.POM3C import POM3C
-from Problems.POM3.POM3D import POM3D
-from Problems.XOMO.XOMO_flight import XOMO_flight
-from Problems.XOMO.XOMO_all import XOMO_all
-from Problems.XOMO.XOMO_ground import XOMO_ground
-from Problems.XOMO.XOMO_osp import XOMO_osp
-from Problems.XOMO.XOMO_osp2 import XOMO_osp2
+from Problems.POM3.POM3B import *
+from Problems.POM3.POM3B_1_2 import *
+from Problems.POM3.POM3B_2_3 import *
+
+from Problems.POM3.POM3A import *
+from Problems.POM3.POM3A_1_2 import *
+from Problems.POM3.POM3A_2_3 import *
+
+from Problems.POM3.POM3C import *
+from Problems.POM3.POM3C_1_2 import *
+from Problems.POM3.POM3C_2_3 import *
+
+from Problems.POM3.POM3D import *
+from Problems.POM3.POM3D_1_2 import *
+from Problems.POM3.POM3D_2_3 import *
+
+from Problems.XOMO.XOMO_flight import *
+from Problems.XOMO.XOMO_flight_1_2 import *
+from Problems.XOMO.XOMO_flight_2_3 import *
+from Problems.XOMO.XOMO_flight_3_4 import *
+
+from Problems.XOMO.XOMO_all import *
+from Problems.XOMO.XOMO_all_1_2 import *
+from Problems.XOMO.XOMO_all_2_3 import *
+from Problems.XOMO.XOMO_all_3_4 import *
+
+from Problems.XOMO.XOMO_ground import *
+from Problems.XOMO.XOMO_ground_1_2 import *
+from Problems.XOMO.XOMO_ground_2_3 import *
+from Problems.XOMO.XOMO_ground_3_4 import *
+
+from Problems.XOMO.XOMO_osp import *
+from Problems.XOMO.XOMO_osp_1_2 import *
+from Problems.XOMO.XOMO_osp_2_3 import *
+from Problems.XOMO.XOMO_osp_3_4 import *
+
+from Problems.XOMO.XOMO_osp2_1_2 import *
+from Problems.XOMO.XOMO_osp2_2_3 import *
+from Problems.XOMO.XOMO_osp2_3_4 import *
+from Problems.XOMO.XOMO_osp2 import *
+
 from Problems.NRP.nrp import NRP
 from Problems.MONRP.monrp import MONRP
 
@@ -56,10 +88,24 @@ algorithms = [
               ]
 
 problems =[
-    POM3A(),
-    POM3B(), POM3C(), POM3D(),
-    XOMO_flight(),
-    XOMO_all(), XOMO_ground(), XOMO_osp(), XOMO_osp2(),
+    POM3A_1_2(), POM3A_2_3(),
+    # POM3A(),
+    # POM3B(),
+    POM3B_1_2(), POM3B_2_3(),
+    # # POM3C(),
+    POM3C_1_2(), POM3C_2_3(),
+    # # POM3D(),
+    POM3D_1_2(), POM3D_2_3(),
+    # # XOMO_flight(),
+    XOMO_flight_1_2(), XOMO_flight_2_3(), XOMO_flight_3_4(),
+    # # # XOMO_all(),
+    XOMO_all_1_2(), XOMO_all_2_3(), XOMO_all_3_4(),
+    # # # XOMO_ground(),
+    XOMO_ground_1_2(), XOMO_ground_2_3(), XOMO_flight_3_4(),
+    # # # XOMO_osp(),
+    XOMO_osp_1_2(), XOMO_osp_2_3(), XOMO_osp_3_4(),
+    # # # XOMO_osp2(),
+    XOMO_osp2_1_2(), XOMO_osp2_2_3(), XOMO_osp2_3_4()
     # MONRP(50, 4, 5, 0, 90), MONRP(50, 4, 5, 0, 110), MONRP(50, 4, 5, 4, 90), MONRP(50, 4, 5, 4, 110),
     # NRP(50, 4, 5, 0, 90), NRP(50, 4, 5, 0, 110), NRP(50, 4, 5, 4, 90), NRP(50, 4, 5, 4, 110),
     ]

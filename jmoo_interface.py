@@ -71,13 +71,19 @@ for i,arg in enumerate(sys.argv):
     if arg == "-binsOnly":
         binsOnly = True
         reportOnly = True
-        
-        
+
+import multiprocessing as mp
 # Build new initial populations if suggested.  Before tests can be performed, a problem requires an initial dataset.
 if build_new_pop:
     for problem in problems:
         # for_landscape(problem, Configurations["Universal"]["Population_Size"])
+        # pool = mp.Pool()
+        # print problem.name
+        # pool.apply_async(initialPopulation, (problem, Configurations["Universal"]["Population_Size"]))
         initialPopulation(problem, Configurations["Universal"]["Population_Size"])
+    # pool.close()
+    # pool.join()
+    # print "Done"
     exit()
 
 
