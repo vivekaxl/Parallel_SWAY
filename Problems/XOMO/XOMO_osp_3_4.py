@@ -83,6 +83,7 @@ class XOMO_osp_3_4(jmoo_problem):
         prob.decisions = [jmoo_decision(names[i], bounds[names[i]][0], bounds[names[i]][1]) for i in range(len(names))]
 
         prob.objectives = [jmoo_objective("Defects", True), jmoo_objective("Risks", True)]
+
     def evaluate(prob, input = None):
         if input:
             for i,decision in enumerate(prob.decisions):
@@ -92,6 +93,9 @@ class XOMO_osp_3_4(jmoo_problem):
         output = xomoxo.run(input)
         for i,objective in enumerate(prob.objectives):
             objective.value = output[i]
-        return [objective.value for objective in prob.objectives]
+        # return [objective.value for objective in prob.objectives]
+        return [output[i] for i in [2, 3]]
+
+
     def evalConstraints(prob,input = None):
         return False #no constraints

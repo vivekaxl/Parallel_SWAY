@@ -96,7 +96,8 @@ class XOMO_all_1_2(jmoo_problem):
         output = xomoxo.run(input)
         for i, objective in enumerate(prob.objectives):
             objective.value = output[i]
-        return [objective.value for objective in prob.objectives]
+        # return [objective.value for objective in prob.objectives]
+        return [output[i] for i in [0, 1]]
 
     def evalConstraints(prob, input=None):
         return False  # no constraints

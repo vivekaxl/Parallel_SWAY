@@ -27,9 +27,12 @@ class POM3A_1_2(jmoo_problem):
             input = [decision.value for decision in prob.decisions]
         p3 = pom3()
         output = p3.simulate(input)
+        import pdb
+        pdb.set_trace()
         for i, objective in enumerate(prob.objectives):
             objective.value = output[i]
-        return [objective.value for objective in prob.objectives]
+        # return [objective.value for objective in prob.objectives]
+        return [output[i] for i in [0, 1]]
 
     def evalConstraints(prob, input=None):
         return False  # no constraints
