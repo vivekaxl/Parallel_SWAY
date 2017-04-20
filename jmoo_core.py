@@ -219,7 +219,7 @@ def call_jmoo_evo(problem, algorithm, configurations, repeat):
         repeat) + ".txt"
 
     f = open(eval_filename, "w")
-    f.write(str(statBox.numEval + configurations["Universal"]["Population_Size"]))
+    f.write(str(statBox.numEval))
     f.close()
     return eval_filename
 
