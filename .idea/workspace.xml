@@ -1,7 +1,249 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="601a97e7-56b9-409f-8299-34de35aa46ab" name="Default" comment="" />
+    <list default="true" id="601a97e7-56b9-409f-8299-34de35aa46ab" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3A_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3B_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3C_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_POM3D_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_all_3_4_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_flight_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_ground_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomo_osp_3_4_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_2_3_10000/9/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/0/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/1/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/10/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/11/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/12/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/13/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/14/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/15/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/16/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/17/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/18/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/19/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/2/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/3/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/4/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/5/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/6/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/7/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/8/1.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/RawData/PopulationArchives/SWAY5_xomoo2_3_4_10000/9/1.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jmoo_properties.py" afterPath="$PROJECT_DIR$/jmoo_properties.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +257,8 @@
       <file leaf-file-name="jmoo_properties.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jmoo_properties.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+            <state relative-caret-position="604">
+              <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
               <folding>
                 <element signature="e#1078#1141#0" expanded="true" />
               </folding>
@@ -130,18 +372,8 @@
               <option name="myItemId" value="RawData" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Parallel_SWAY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Parallel_SWAY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
+              <option name="myItemId" value="PopulationArchives" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -155,29 +387,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
+              <option name="myItemId" value="RawData" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="XOMO" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Parallel_SWAY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Parallel_SWAY" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Problems" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="POM3" />
+              <option name="myItemId" value="ExperimentalRecords" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -191,6 +405,9 @@
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/RawData/ExperimentalRecords" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/Data" />
@@ -383,7 +600,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31281033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31281033" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -622,8 +839,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jmoo_properties.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="117" column="4" lean-forward="false" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        <state relative-caret-position="604">
+          <caret line="121" column="4" lean-forward="false" selection-start-line="121" selection-start-column="4" selection-end-line="121" selection-end-column="4" />
           <folding>
             <element signature="e#1078#1141#0" expanded="true" />
           </folding>
