@@ -111,7 +111,7 @@ problems =[
     # # # XOMO_ground(),
     # XOMO_ground_1_2(),
     XOMO_ground_2_3(),
-    XOMO_flight_3_4(),
+    XOMO_ground_3_4(),
     # # # XOMO_osp(),
     # XOMO_osp_1_2(),
     XOMO_osp_2_3(),
